@@ -15,6 +15,8 @@ public class Player : MonoBehaviour
 		lineRenderer = GetComponent<LineRenderer>();
 		tileMap = FindObjectOfType(typeof(TileMap)) as TileMap;
 		enabled = tileMap != null;
+
+
 	}
 
 	void Update()

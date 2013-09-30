@@ -392,7 +392,7 @@ public class TileMapEditor : Editor
 		{
 #if UNITY_4_3
 			Undo.DestroyObjectImmediate(tileMap.instances[index].gameObject);
-#elif
+#else
 			DestroyImmediate(tileMap.instances[index].gameObject);
 #endif
 		}

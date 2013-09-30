@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TileMap\Scripts\Editor\TileMapEditor.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TileEditor\Demo\Scripts\Player.cs">
     <Files>
-      <File FileName="Assets\TileMap\Scripts\TileMap.cs" Line="29" Column="2" />
-      <File FileName="Assets\TileMap\Scripts\Editor\TileMapEditor.cs" Line="458" Column="36" />
-      <File FileName="Assets\TileMap\Scripts\TileSet.cs" Line="2" Column="1" />
-      <File FileName="Assets\TileMap\Scripts\PathTile.cs" Line="7" Column="20" />
-      <File FileName="Assets\TileMap\Demo\Scripts\Player.cs" Line="35" Column="6" />
+      <File FileName="Assets\TileEditor\Scripts\Editor\TileMapEditor.cs" Line="194" Column="4" />
+      <File FileName="Assets\TileEditor\Demo\Scripts\Player.cs" Line="28" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
